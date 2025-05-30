@@ -4,7 +4,7 @@ This is a simple chat page project built using **HTML** and **CSS**. It shows a 
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the live site](https://yourusername.github.io/chat-page/)
+👉 [Click here to view the live site](https://souravkumaryadav.github.io/chat-page/)
 
 ## 🧑‍💻 Technologies Used
 
