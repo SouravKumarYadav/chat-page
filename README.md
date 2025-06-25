@@ -1,5 +1,7 @@
 # Chat Page
 
+![Chat Page Preview](https://github.com/SouravKumarYadav/chat-page/blob/main/chat-page.jpg)
+
 This is a simple chat page project built using **HTML** and **CSS**. It shows a basic chat interface between two friends — Rahul and Varakumar.
 
 ## 🚀 Live Demo
